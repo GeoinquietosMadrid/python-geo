@@ -6,7 +6,6 @@ Meetup GeoInquietos y Python Madrid
 * Hora: 18-20h.
 * Lugar: CARTO.
 * Número máximo de asistentes: 70.
-
 * Charlas:
 
 1. Introducción GeoInquietos Madrid y Python Madrid (Ramiro Aznar y Juan Luis Cano).
