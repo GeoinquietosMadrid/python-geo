@@ -9,12 +9,8 @@ Meetup GeoInquietos y Python Madrid
 
 * Charlas:
 
-  * Introducción GeoInquietos Madrid y Python Madrid (Ramiro Aznar y Juan Luis Cano).
-
-  * Análisis de datos con Pandas (Guillem Borrell).
-
-  * Librerías Geo: Caropy (Juan Luis Ribero).
-
-  * CARTO SDK (Jorge Sanz).
-
-  * QGIS: pyQGIS y desarrollo de plugins (Francisco José Raga).
+1. Introducción GeoInquietos Madrid y Python Madrid (Ramiro Aznar y Juan Luis Cano).
+2. Análisis de datos con Pandas (Guillem Borrell).
+3. Librerías Geo: Caropy (Juan Luis Ribero).
+4. CARTO SDK (Jorge Sanz).
+5. QGIS: pyQGIS y desarrollo de plugins (Francisco José Raga).
