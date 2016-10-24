@@ -8,6 +8,7 @@ Meetup GeoInquietos y Python Madrid
 * Número máximo de asistentes: 70.
 
 * Charlas:
+
   * Introducción GeoInquietos Madrid y Python Madrid (Ramiro Aznar y Juan Luis Cano).
   * Análisis de datos con Pandas (Guillem Borrell).
   * Librerías Geo: Caropy (Juan Luis Ribero).
