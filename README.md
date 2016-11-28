@@ -1,8 +1,8 @@
-# Python aplicado a profesionales geo
-## Meetup GeoInquietos y Python Madrid
+# Meetup GeoInquietos y Python Madrid
 
 ##[http://bit.ly/geoinquietosmad-python](http://bit.ly/geoinquietosmad-python)
 
+* Temática: Python aplicado a profesionales geo
 * Día: miércoles 30 de noviembre.
 * Hora: 18:30-20h.
 * Lugar: CARTO.
