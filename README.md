@@ -2,7 +2,7 @@
 
 ##[http://bit.ly/geoinquietosmad-python](http://bit.ly/geoinquietosmad-python)
 
-# Detalles
+## Detalles
 * Temática: Python aplicado a profesionales geo
 * Día: miércoles 30 de noviembre.
 * Hora: 18:30-20h.
