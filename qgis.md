@@ -1,4 +1,3 @@
 # QGIS: pyQGIS y desarrollo de plugins (Francisco José Raga)
 
-## Presentación Taller
-http://slides.com/franciscojoseragalopez/pyqgis/fullscreen
+* Presentación Taller: slides (http://slides.com/franciscojoseragalopez/pyqgis/fullscreen)
