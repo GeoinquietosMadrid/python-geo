@@ -1,9 +1,10 @@
 # Python aplicado a profesionales geo
 
-Meetup GeoInquietos y Python Madrid
+## Meetup GeoInquietos y Python Madrid
+## [http://bit.ly/geoinquietosmad-python](http://bit.ly/geoinquietosmad-python)
 
 * Día: miércoles 30 de noviembre.
-* Hora: 18-20h.
+* Hora: 18:30-20h.
 * Lugar: CARTO.
 * Número máximo de asistentes: 70.
 * Charlas:
