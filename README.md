@@ -1,6 +1,6 @@
 # Meetup GeoInquietos y Python Madrid
 
-##[http://bit.ly/geoinquietosmad-python](http://bit.ly/geoinquietosmad-python)
+## [http://bit.ly/geoinquietosmad-python](http://bit.ly/geoinquietosmad-python)
 
 ## Detalles
 * Temática: Python aplicado a profesionales geo
